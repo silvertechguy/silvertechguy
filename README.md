@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Fadda (SilverTechGuy)</h1>
-<h3 align="center">A passionate web developer - like to make stuff with code</h3>
+<h3 align="center">A passionate software engineer - like to make stuff with code</h3>
 
 - 🌱 I’m currently learning **everything 🤣**
-
-- 👨‍💻 My projects are available at [https://silvertechguy.netlify.app](https://silvertechguy.netlify.app)
-
-- 💬 Ask me about **JavaScript, Full Stack development and building cool sh*t**
 
 - 📫 Reach me at my email **silvertechguy@gmail.com**
 
